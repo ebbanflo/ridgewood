@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-21T17:40:17.176893+00:00",
-  "count": 1,
+  "updated": "2026-07-21T18:57:20.318293+00:00",
+  "count": 2,
   "alerts": [
+    {
+      "id": "urn:oid:2.49.0.1.840.0.c2bbec4ec42cffa7f84c1a5766c17eb64f256bcf.001.1",
+      "event": "Tornado Watch",
+      "severity": "Extreme",
+      "urgency": "Future",
+      "certainty": "Possible",
+      "headline": "Tornado Watch issued July 21 at 2:08PM EDT until July 21 at 9:00PM EDT by NWS Upton NY",
+      "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 507 IN\nEFFECT UNTIL 9 PM EDT THIS EVENING FOR THE FOLLOWING AREAS\n\nIN CONNECTICUT THIS WATCH INCLUDES 2 COUNTIES\n\nIN SOUTHERN CONNECTICUT\n\nFAIRFIELD             NEW HAVEN\n\nIN NEW JERSEY THIS WATCH INCLUDES 5 COUNTIES\n\nIN NORTHEAST NEW JERSEY\n\nBERGEN                ESSEX                 HUDSON\nPASSAIC               UNION\n\nIN NEW YORK THIS WATCH INCLUDES 10 COUNTIES\n\nIN SOUTHEAST NEW YORK\n\nBRONX                 KINGS (BROOKLYN)      NASSAU\nNEW YORK (MANHATTAN)  ORANGE                PUTNAM\nQUEENS                RICHMOND (STATEN ISLAND)\nROCKLAND              WESTCHESTER",
+      "instruction": null,
+      "onset": "2026-07-21T14:08:00-04:00",
+      "expires": "2026-07-21T21:00:00-04:00",
+      "sender": "NWS Upton NY",
+      "geometry": null
+    },
     {
       "id": "urn:oid:2.49.0.1.840.0.4f3a0d8877c1c4f944a27cfb01e3255d98ed2cda.002.1",
       "event": "Flood Watch",

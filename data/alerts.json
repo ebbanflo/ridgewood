@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-21T12:00:00+00:00",
-  "seed": true,
-  "count": 0,
-  "alerts": []
+  "updated": "2026-07-21T14:32:24.585599+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "id": "urn:oid:2.49.0.1.840.0.4f3a0d8877c1c4f944a27cfb01e3255d98ed2cda.002.1",
+      "event": "Flood Watch",
+      "severity": "Severe",
+      "urgency": "Future",
+      "certainty": "Possible",
+      "headline": "Flood Watch issued July 21 at 9:51AM EDT until July 22 at 2:00AM EDT by NWS Upton NY",
+      "description": "* WHAT...Flooding caused by excessive rainfall continues to be\npossible.\n\n* WHERE...Portions of northeast New Jersey, including the following\nareas, Eastern Bergen, Eastern Essex, Eastern Passaic, Eastern\nUnion, Hudson, Western Bergen, Western Essex, Western Passaic and\nWestern Union and southeast New York, including the following\nareas, Bronx, Kings (Brooklyn), New York (Manhattan), Northern\nQueens, Richmond (Staten Island) and Southern Queens.\n\n* WHEN...Through late tonight.\n\n* IMPACTS...Excessive runoff may result in flooding of rivers,\ncreeks, streams, and other low-lying and flood-prone locations.\nFlooding may occur in poor drainage and urban areas.\n\n* ADDITIONAL DETAILS...\n- Multiple rounds of heavy downpours and thunderstorms are\nexpected this morning into tonight. Averaged rainfall totals\nwill be between 1 and 2 inches, with localized swaths of 3 to\n4 inches possible. Peak rainfall rates in the strongest\nstorms could be 2-3 inches per hour.\n- http://www.weather.gov/safety/flood",
+      "instruction": "You should monitor later forecasts and be alert for possible Flood\nWarnings. Those living in areas prone to flooding should be prepared\nto take action should flooding develop.",
+      "onset": "2026-07-21T09:51:00-04:00",
+      "expires": "2026-07-21T21:30:00-04:00",
+      "sender": "NWS Upton NY",
+      "geometry": null
+    }
+  ]
 }

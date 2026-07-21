@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T14:32:23.360812+00:00",
+  "updated": "2026-07-21T16:04:59.828969+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
@@ -7,25 +7,25 @@
   },
   "current": {
     "tempF": 79,
-    "feelsF": 80,
-    "humidity": 74,
-    "windMph": 16,
-    "windDir": "SSE",
-    "text": "Cloudy",
-    "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+    "feelsF": 82,
+    "humidity": 79,
+    "windMph": 20,
+    "windDir": "S",
+    "text": "Cloudy and Windy",
+    "icon": "https://api.weather.gov/icons/land/day/wind_ovc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-21T14:15:00+00:00"
+    "observedAt": "2026-07-21T15:35:00+00:00"
   },
   "periods": [
     {
-      "name": "Today",
+      "name": "This Afternoon",
       "isDaytime": true,
       "tempF": 82,
       "unit": "F",
       "wind": "15 mph S",
-      "short": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-      "detailed": "A chance of showers and thunderstorms before 11am, then showers and thunderstorms likely between 11am and 2pm, then showers and thunderstorms likely between 2pm and 5pm, then showers and thunderstorms. Mostly cloudy, with a high near 82. South wind around 15 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
-      "icon": "https://api.weather.gov/icons/land/day/tsra,70/tsra,100?size=medium",
+      "short": "Showers And Thunderstorms Likely",
+      "detailed": "Showers and thunderstorms likely before 2pm, then showers and thunderstorms likely between 2pm and 5pm, then showers and thunderstorms. Cloudy, with a high near 82. South wind around 15 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+      "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
       "precip": 96
     },
     {
@@ -130,27 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-21T09:00:00-04:00",
-      "tempF": 75,
-      "short": "Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/day/tsra_sct,30?size=small",
-      "precip": 34
-    },
-    {
-      "time": "2026-07-21T10:00:00-04:00",
-      "tempF": 76,
-      "short": "Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/day/tsra,30?size=small",
-      "precip": 34
-    },
-    {
-      "time": "2026-07-21T11:00:00-04:00",
-      "tempF": 78,
-      "short": "Showers And Thunderstorms Likely",
-      "icon": "https://api.weather.gov/icons/land/day/tsra,70?size=small",
-      "precip": 71
-    },
-    {
       "time": "2026-07-21T12:00:00-04:00",
       "tempF": 80,
       "short": "Showers And Thunderstorms Likely",
@@ -212,6 +191,27 @@
       "short": "Showers And Thunderstorms",
       "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=small",
       "precip": 94
+    },
+    {
+      "time": "2026-07-21T21:00:00-04:00",
+      "tempF": 77,
+      "short": "Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=small",
+      "precip": 94
+    },
+    {
+      "time": "2026-07-21T22:00:00-04:00",
+      "tempF": 76,
+      "short": "Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=small",
+      "precip": 94
+    },
+    {
+      "time": "2026-07-21T23:00:00-04:00",
+      "tempF": 76,
+      "short": "Showers And Thunderstorms Likely",
+      "icon": "https://api.weather.gov/icons/land/night/tsra,70?size=small",
+      "precip": 70
     }
   ]
 }

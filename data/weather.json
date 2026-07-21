@@ -1,33 +1,22 @@
 {
-  "updated": "2026-07-21T21:35:32.134592+00:00",
+  "updated": "2026-07-21T22:31:30.176892+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 73,
-    "feelsF": 75,
-    "humidity": 94,
-    "windMph": 8,
-    "windDir": "E",
-    "text": "Partly Cloudy",
-    "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+    "tempF": 75,
+    "feelsF": 77,
+    "humidity": 89,
+    "windMph": 10,
+    "windDir": "ESE",
+    "text": "Rain and Fog/Mist",
+    "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-21T21:15:00+00:00"
+    "observedAt": "2026-07-21T22:20:00+00:00"
   },
   "periods": [
-    {
-      "name": "This Afternoon",
-      "isDaytime": true,
-      "tempF": 82,
-      "unit": "F",
-      "wind": "16 mph S",
-      "short": "Showers And Thunderstorms",
-      "detailed": "Showers and thunderstorms. Some of the storms could be severe and produce heavy rain. Cloudy, with a high near 82. South wind around 16 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
-      "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
-      "precip": 96
-    },
     {
       "name": "Tonight",
       "isDaytime": false,
@@ -79,7 +68,7 @@
       "unit": "F",
       "wind": "2 to 13 mph NW",
       "short": "Clear",
-      "detailed": "Clear. Low around 65, with temperatures rising to around 67 overnight.",
+      "detailed": "Clear. Low around 65, with temperatures rising to around 67 overnight. Northwest wind 2 to 13 mph.",
       "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
       "precip": 0
     },
@@ -126,16 +115,20 @@
       "detailed": "Partly cloudy, with a low around 67.",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
       "precip": 11
+    },
+    {
+      "name": "Sunday",
+      "isDaytime": true,
+      "tempF": 83,
+      "unit": "F",
+      "wind": "3 to 10 mph SE",
+      "short": "Mostly Sunny",
+      "detailed": "Mostly sunny, with a high near 83.",
+      "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+      "precip": 7
     }
   ],
   "hours": [
-    {
-      "time": "2026-07-21T17:00:00-04:00",
-      "tempF": 81,
-      "short": "Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=small",
-      "precip": 96
-    },
     {
       "time": "2026-07-21T18:00:00-04:00",
       "tempF": 79,
@@ -212,6 +205,13 @@
       "short": "Chance Rain Showers",
       "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=small",
       "precip": 41
+    },
+    {
+      "time": "2026-07-22T05:00:00-04:00",
+      "tempF": 73,
+      "short": "Slight Chance Rain Showers",
+      "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=small",
+      "precip": 18
     }
   ]
 }

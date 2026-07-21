@@ -1,0 +1,33 @@
+{
+  "updated": "2026-07-21T12:00:00+00:00",
+  "place": "Ridgewood, NY",
+  "coords": { "lat": 40.7002, "lon": -73.906 },
+  "seed": true,
+  "current": {
+    "tempF": 78,
+    "text": "Partly Sunny",
+    "humidity": 58,
+    "windMph": 7,
+    "windDir": "SW"
+  },
+  "periods": [
+    {
+      "name": "Today",
+      "isDaytime": true,
+      "tempF": 84,
+      "unit": "F",
+      "wind": "5 to 9 mph SW",
+      "short": "Partly Sunny",
+      "detailed": "Live weather loads when you open the app. Partly sunny, with a high near 84. Southwest wind 5 to 9 mph.",
+      "precip": 20
+    }
+  ],
+  "hours": [
+    { "time": "2026-07-21T12:00:00-04:00", "tempF": 79, "short": "Partly Sunny", "precip": 10 },
+    { "time": "2026-07-21T13:00:00-04:00", "tempF": 81, "short": "Partly Sunny", "precip": 10 },
+    { "time": "2026-07-21T14:00:00-04:00", "tempF": 83, "short": "Mostly Sunny", "precip": 20 },
+    { "time": "2026-07-21T15:00:00-04:00", "tempF": 84, "short": "Chance Showers", "precip": 30 },
+    { "time": "2026-07-21T16:00:00-04:00", "tempF": 83, "short": "Chance Showers", "precip": 30 },
+    { "time": "2026-07-21T17:00:00-04:00", "tempF": 81, "short": "Partly Sunny", "precip": 20 }
+  ]
+}

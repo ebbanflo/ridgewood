@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#e9f0dc" />
+  <meta name="description" content="A living command center for Ridgewood, Queens — weather, hazards, news, and new spots." />
+
+  <!-- Mobile web-app / PWA hints -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Ridgewood" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="assets/icon-180.png" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+
+  <title>Ridgewood · Command Center</title>
+
+  <!-- Leaflet map -->
+  <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin="" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Nunito+Sans:wght@400;600;700&display=swap"
+        rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Soft faded-photo grain + sun wash, the Pet Sounds influence -->
+  <div class="grain" aria-hidden="true"></div>
+  <div class="sunwash" aria-hidden="true"></div>
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <h1 class="wordmark">Ridgewood</h1>
+      <a id="wxChip" class="wx-chip" href="#map" aria-label="Current weather">
+        <span class="wx-emoji" id="wxEmoji">☀️</span>
+        <span class="wx-temp" id="wxTemp">—°</span>
+        <span class="wx-text" id="wxText">loading…</span>
+      </a>
+    </div>
+    <p class="tagline">Queens, New York · a little command center</p>
+  </header>
+
+  <!-- Hazard banner (hidden unless there is an active alert) -->
+  <div id="alertBanner" class="alert-banner" hidden></div>
+
+  <main>
+    <!-- MAP -->
+    <section class="panel" id="map-panel">
+      <div class="panel-head">
+        <h2>The Neighborhood</h2>
+        <div class="map-toggles" id="mapToggles">
+          <button data-layer="radar" class="chip-toggle is-on">Radar</button>
+          <button data-layer="hazards" class="chip-toggle is-on">Hazards</button>
+        </div>
+      </div>
+      <div id="map" role="img" aria-label="Map of Ridgewood, Queens with weather and hazard overlays"></div>
+      <div class="wx-strip" id="wxStrip" aria-label="Next hours forecast"></div>
+      <div class="wx-detail" id="wxDetail"></div>
+    </section>
+
+    <!-- NEWS -->
+    <section class="panel" id="news-panel">
+      <div class="panel-head">
+        <h2>Ridgewood in the News</h2>
+        <span class="count-pill" id="newsCount"></span>
+      </div>
+      <div class="feed" id="newsFeed">
+        <p class="empty">Listening for mentions…</p>
+      </div>
+    </section>
+
+    <!-- NEW PLACES -->
+    <section class="panel" id="places-panel">
+      <div class="panel-head">
+        <h2>New Around Town</h2>
+        <span class="count-pill" id="placesCount"></span>
+      </div>
+      <p class="panel-sub">Fresh stores, cafés &amp; restaurants worth a look</p>
+      <div class="feed cards" id="placesFeed">
+        <p class="empty">Scouting the block…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span id="statusLine">refreshing every 10 minutes</span>
+    <span class="dot">·</span>
+    <span>data: NWS · Google News · OpenStreetMap</span>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+          crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>

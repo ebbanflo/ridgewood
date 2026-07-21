@@ -1,0 +1,59 @@
+name: Refresh Ridgewood data
+
+# The "war room" pattern: a cron job pulls fresh data every ~10 minutes and
+# commits the JSON into the repo, which GitHub Pages then serves statically.
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes (UTC). GitHub may delay under load.
+  workflow_dispatch:          # allow manual runs from the Actions tab
+  push:
+    branches: [main]          # refresh immediately on deploy
+    paths:
+      - "scripts/**"
+      - ".github/workflows/refresh.yml"
+
+# Let the job commit back to the repo.
+permissions:
+  contents: write
+
+# Don't stack runs on top of each other if one is slow.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch data
+        run: python scripts/fetch_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "ridgewood-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): refresh Ridgewood feeds [skip ci]"
+            # Retry push a few times in case another run raced us.
+            for i in 1 2 3 4; do
+              if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+                 git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                echo "Pushed."; break
+              fi
+              echo "Push attempt $i failed; retrying..."; sleep $((2 ** i))
+            done
+          fi

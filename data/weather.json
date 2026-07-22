@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-22T20:33:34.718851+00:00",
+  "updated": "2026-07-22T21:54:25.881177+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 90,
-    "feelsF": 90,
-    "humidity": 38,
-    "windMph": null,
-    "windDir": null,
-    "text": "Clear",
-    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+    "tempF": 88,
+    "feelsF": 88,
+    "humidity": 40,
+    "windMph": 13,
+    "windDir": "WNW",
+    "text": "Mostly Cloudy",
+    "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-22T20:10:00+00:00"
+    "observedAt": "2026-07-22T21:35:00+00:00"
   },
   "periods": [
     {
@@ -23,10 +23,10 @@
       "tempF": 85,
       "unit": "F",
       "wind": "13 mph W",
-      "short": "Slight Chance Showers And Thunderstorms",
-      "detailed": "A slight chance of showers and thunderstorms before 5pm. Sunny, with a high near 85. West wind around 13 mph. Chance of precipitation is 20%.",
-      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-      "precip": 16
+      "short": "Sunny",
+      "detailed": "Sunny, with a high near 85. West wind around 13 mph.",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+      "precip": 6
     },
     {
       "name": "Tonight",
@@ -130,13 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-22T16:00:00-04:00",
-      "tempF": 85,
-      "short": "Slight Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
-      "precip": 16
-    },
-    {
       "time": "2026-07-22T17:00:00-04:00",
       "tempF": 85,
       "short": "Sunny",
@@ -209,6 +202,13 @@
     {
       "time": "2026-07-23T03:00:00-04:00",
       "tempF": 70,
+      "short": "Partly Cloudy",
+      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T04:00:00-04:00",
+      "tempF": 68,
       "short": "Partly Cloudy",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
       "precip": 0

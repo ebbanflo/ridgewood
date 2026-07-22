@@ -1,33 +1,22 @@
 {
-  "updated": "2026-07-22T21:54:25.881177+00:00",
+  "updated": "2026-07-22T22:43:02.968116+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 88,
-    "feelsF": 88,
-    "humidity": 40,
-    "windMph": 13,
-    "windDir": "WNW",
+    "tempF": 86,
+    "feelsF": 86,
+    "humidity": 43,
+    "windMph": 14,
+    "windDir": "W",
     "text": "Mostly Cloudy",
     "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-22T21:35:00+00:00"
+    "observedAt": "2026-07-22T22:20:00+00:00"
   },
   "periods": [
-    {
-      "name": "This Afternoon",
-      "isDaytime": true,
-      "tempF": 85,
-      "unit": "F",
-      "wind": "13 mph W",
-      "short": "Sunny",
-      "detailed": "Sunny, with a high near 85. West wind around 13 mph.",
-      "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-      "precip": 6
-    },
     {
       "name": "Tonight",
       "isDaytime": false,
@@ -79,7 +68,7 @@
       "unit": "F",
       "wind": "2 to 10 mph E",
       "short": "Mostly Clear",
-      "detailed": "Mostly clear, with a low around 67.",
+      "detailed": "Mostly clear, with a low around 67. East wind 2 to 10 mph.",
       "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
       "precip": 1
     },
@@ -90,7 +79,7 @@
       "unit": "F",
       "wind": "2 to 12 mph E",
       "short": "Sunny",
-      "detailed": "Sunny, with a high near 83.",
+      "detailed": "Sunny. High near 83, with temperatures falling to around 81 in the afternoon.",
       "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
       "precip": 1
     },
@@ -126,16 +115,20 @@
       "detailed": "Partly cloudy, with a low around 69.",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
       "precip": 13
+    },
+    {
+      "name": "Monday",
+      "isDaytime": true,
+      "tempF": 84,
+      "unit": "F",
+      "wind": "3 to 12 mph SW",
+      "short": "Mostly Sunny then Slight Chance Rain Showers",
+      "detailed": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 84.",
+      "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
+      "precip": 22
     }
   ],
   "hours": [
-    {
-      "time": "2026-07-22T17:00:00-04:00",
-      "tempF": 85,
-      "short": "Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
-      "precip": 6
-    },
     {
       "time": "2026-07-22T18:00:00-04:00",
       "tempF": 84,
@@ -208,6 +201,13 @@
     },
     {
       "time": "2026-07-23T04:00:00-04:00",
+      "tempF": 68,
+      "short": "Partly Cloudy",
+      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T05:00:00-04:00",
       "tempF": 68,
       "short": "Partly Cloudy",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=small",

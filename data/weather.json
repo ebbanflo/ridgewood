@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T07:12:00.419109+00:00",
+  "updated": "2026-07-22T09:40:14.613660+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
@@ -11,10 +11,10 @@
     "humidity": 83,
     "windMph": 10,
     "windDir": "SW",
-    "text": "Mostly Cloudy",
-    "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+    "text": "Cloudy",
+    "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-22T06:50:00+00:00"
+    "observedAt": "2026-07-22T09:25:00+00:00"
   },
   "periods": [
     {
@@ -22,11 +22,11 @@
       "isDaytime": false,
       "tempF": 72,
       "unit": "F",
-      "wind": "14 mph SW",
-      "short": "Chance Showers And Thunderstorms",
-      "detailed": "A chance of showers and thunderstorms before 5am. Mostly cloudy, with a low around 72. Southwest wind around 14 mph. Chance of precipitation is 30%.",
-      "icon": "https://api.weather.gov/icons/land/night/tsra,30?size=medium",
-      "precip": 26
+      "wind": "12 mph SW",
+      "short": "Mostly Cloudy",
+      "detailed": "Mostly cloudy, with a low around 72. Southwest wind around 12 mph.",
+      "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+      "precip": 11
     },
     {
       "name": "Wednesday",
@@ -130,20 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-22T03:00:00-04:00",
-      "tempF": 73,
-      "short": "Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/night/tsra,30?size=small",
-      "precip": 26
-    },
-    {
-      "time": "2026-07-22T04:00:00-04:00",
-      "tempF": 73,
-      "short": "Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/night/tsra,30?size=small",
-      "precip": 26
-    },
-    {
       "time": "2026-07-22T05:00:00-04:00",
       "tempF": 73,
       "short": "Mostly Cloudy",
@@ -208,6 +194,20 @@
     },
     {
       "time": "2026-07-22T14:00:00-04:00",
+      "tempF": 84,
+      "short": "Slight Chance Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
+      "precip": 15
+    },
+    {
+      "time": "2026-07-22T15:00:00-04:00",
+      "tempF": 85,
+      "short": "Slight Chance Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
+      "precip": 15
+    },
+    {
+      "time": "2026-07-22T16:00:00-04:00",
       "tempF": 84,
       "short": "Slight Chance Showers And Thunderstorms",
       "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",

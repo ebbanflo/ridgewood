@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-23T01:15:17.800956+00:00",
+  "updated": "2026-07-23T04:36:36.233791+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 81,
-    "feelsF": 81,
-    "humidity": 45,
-    "windMph": 11,
-    "windDir": "NW",
-    "text": "Partly Cloudy",
-    "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+    "tempF": 73,
+    "feelsF": 73,
+    "humidity": 53,
+    "windMph": 13,
+    "windDir": "NNW",
+    "text": "Mostly Clear",
+    "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-23T00:50:00+00:00"
+    "observedAt": "2026-07-23T04:15:00+00:00"
   },
   "periods": [
     {
-      "name": "Tonight",
+      "name": "Overnight",
       "isDaytime": false,
       "tempF": 66,
       "unit": "F",
-      "wind": "7 to 10 mph NW",
+      "wind": "8 mph N",
       "short": "Partly Cloudy",
-      "detailed": "Partly cloudy. Low around 66, with temperatures rising to around 68 overnight. Northwest wind 7 to 10 mph.",
+      "detailed": "Partly cloudy. Low around 66, with temperatures rising to around 68 overnight. North wind around 8 mph.",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
       "precip": 1
     },
@@ -130,34 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-22T20:00:00-04:00",
-      "tempF": 83,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-22T21:00:00-04:00",
-      "tempF": 81,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-22T22:00:00-04:00",
-      "tempF": 78,
-      "short": "Partly Cloudy",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-22T23:00:00-04:00",
-      "tempF": 74,
-      "short": "Partly Cloudy",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-      "precip": 1
-    },
-    {
       "time": "2026-07-23T00:00:00-04:00",
       "tempF": 73,
       "short": "Partly Cloudy",
@@ -211,6 +183,34 @@
       "tempF": 66,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T08:00:00-04:00",
+      "tempF": 68,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T09:00:00-04:00",
+      "tempF": 70,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T10:00:00-04:00",
+      "tempF": 73,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T11:00:00-04:00",
+      "tempF": 75,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
       "precip": 0
     }
   ]

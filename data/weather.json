@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T21:45:45.257362+00:00",
+  "updated": "2026-07-23T22:39:49.561793+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
@@ -9,25 +9,14 @@
     "tempF": 79,
     "feelsF": 78,
     "humidity": 39,
-    "windMph": 3,
-    "windDir": "S",
+    "windMph": 7,
+    "windDir": "E",
     "text": "Clear",
     "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-23T21:30:00+00:00"
+    "observedAt": "2026-07-23T22:20:00+00:00"
   },
   "periods": [
-    {
-      "name": "This Afternoon",
-      "isDaytime": true,
-      "tempF": 81,
-      "unit": "F",
-      "wind": "6 mph SE",
-      "short": "Sunny",
-      "detailed": "Sunny. High near 81, with temperatures falling to around 79 in the afternoon. Southeast wind around 6 mph.",
-      "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-      "precip": 0
-    },
     {
       "name": "Tonight",
       "isDaytime": false,
@@ -79,7 +68,7 @@
       "unit": "F",
       "wind": "3 to 10 mph NE",
       "short": "Partly Cloudy",
-      "detailed": "Partly cloudy, with a low around 66.",
+      "detailed": "Partly cloudy, with a low around 66. Northeast wind 3 to 10 mph.",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
       "precip": 1
     },
@@ -126,16 +115,20 @@
       "detailed": "A slight chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 71. Chance of precipitation is 50%.",
       "icon": "https://api.weather.gov/icons/land/night/tsra_sct,40/tsra_sct,50?size=medium",
       "precip": 48
+    },
+    {
+      "name": "Tuesday",
+      "isDaytime": true,
+      "tempF": 86,
+      "unit": "F",
+      "wind": "8 to 12 mph S",
+      "short": "Showers And Thunderstorms Likely",
+      "detailed": "A chance of rain showers before 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 86. Chance of precipitation is 70%.",
+      "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/tsra_sct,70?size=medium",
+      "precip": 69
     }
   ],
   "hours": [
-    {
-      "time": "2026-07-23T17:00:00-04:00",
-      "tempF": 79,
-      "short": "Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
-      "precip": 0
-    },
     {
       "time": "2026-07-23T18:00:00-04:00",
       "tempF": 78,
@@ -208,6 +201,13 @@
     },
     {
       "time": "2026-07-24T04:00:00-04:00",
+      "tempF": 67,
+      "short": "Clear",
+      "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-24T05:00:00-04:00",
       "tempF": 67,
       "short": "Clear",
       "icon": "https://api.weather.gov/icons/land/night/skc?size=small",

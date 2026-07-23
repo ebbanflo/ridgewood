@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-23T19:43:10.539181+00:00",
+  "updated": "2026-07-23T20:44:15.865177+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 79,
-    "feelsF": 78,
-    "humidity": 32,
-    "windMph": 7,
-    "windDir": "N",
-    "text": "Clear",
-    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+    "tempF": 81,
+    "feelsF": 80,
+    "humidity": 34,
+    "windMph": 6,
+    "windDir": "SSE",
+    "text": "Mostly Clear",
+    "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-23T19:25:00+00:00"
+    "observedAt": "2026-07-23T20:20:00+00:00"
   },
   "periods": [
     {
@@ -22,9 +22,9 @@
       "isDaytime": true,
       "tempF": 81,
       "unit": "F",
-      "wind": "6 mph SE",
+      "wind": "6 mph E",
       "short": "Sunny",
-      "detailed": "Sunny. High near 81, with temperatures falling to around 79 in the afternoon. Southeast wind around 6 mph.",
+      "detailed": "Sunny. High near 81, with temperatures falling to around 79 in the afternoon. East wind around 6 mph.",
       "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
       "precip": 0
     },

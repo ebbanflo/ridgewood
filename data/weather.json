@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T09:38:34.179811+00:00",
+  "updated": "2026-07-23T11:29:50.154090+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
@@ -9,27 +9,16 @@
     "tempF": 66,
     "feelsF": null,
     "humidity": 64,
-    "windMph": 6,
-    "windDir": "N",
-    "text": "Mostly Clear",
-    "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+    "windMph": 7,
+    "windDir": "NNW",
+    "text": "Clear",
+    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-23T09:20:00+00:00"
+    "observedAt": "2026-07-23T11:05:00+00:00"
   },
   "periods": [
     {
-      "name": "Overnight",
-      "isDaytime": false,
-      "tempF": 66,
-      "unit": "F",
-      "wind": "8 mph N",
-      "short": "Partly Cloudy",
-      "detailed": "Partly cloudy. Low around 66, with temperatures rising to around 68 overnight. North wind around 8 mph.",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-      "precip": 1
-    },
-    {
-      "name": "Thursday",
+      "name": "Today",
       "isDaytime": true,
       "tempF": 82,
       "unit": "F",
@@ -40,7 +29,7 @@
       "precip": 1
     },
     {
-      "name": "Thursday Night",
+      "name": "Tonight",
       "isDaytime": false,
       "tempF": 66,
       "unit": "F",
@@ -79,7 +68,7 @@
       "unit": "F",
       "wind": "3 to 12 mph E",
       "short": "Sunny",
-      "detailed": "Sunny, with a high near 83.",
+      "detailed": "Sunny, with a high near 83. East wind 3 to 12 mph.",
       "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
       "precip": 1
     },
@@ -126,23 +115,20 @@
       "detailed": "A slight chance of showers and thunderstorms after 2pm. Mostly sunny, with a high near 83.",
       "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,20?size=medium",
       "precip": 19
+    },
+    {
+      "name": "Monday Night",
+      "isDaytime": false,
+      "tempF": 71,
+      "unit": "F",
+      "wind": "7 to 12 mph S",
+      "short": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
+      "detailed": "A slight chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 71. Chance of precipitation is 40%.",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40?size=medium",
+      "precip": 41
     }
   ],
   "hours": [
-    {
-      "time": "2026-07-23T05:00:00-04:00",
-      "tempF": 68,
-      "short": "Partly Cloudy",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-      "precip": 1
-    },
-    {
-      "time": "2026-07-23T06:00:00-04:00",
-      "tempF": 67,
-      "short": "Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
-      "precip": 1
-    },
     {
       "time": "2026-07-23T07:00:00-04:00",
       "tempF": 68,
@@ -211,6 +197,20 @@
       "tempF": 80,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T17:00:00-04:00",
+      "tempF": 80,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T18:00:00-04:00",
+      "tempF": 79,
+      "short": "Mostly Clear",
+      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
       "precip": 0
     }
   ]

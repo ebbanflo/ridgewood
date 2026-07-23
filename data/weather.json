@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-22T23:43:53.007378+00:00",
+  "updated": "2026-07-23T01:15:17.800956+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 82,
-    "feelsF": 83,
-    "humidity": 48,
-    "windMph": null,
-    "windDir": null,
-    "text": "Mostly Cloudy",
-    "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+    "tempF": 81,
+    "feelsF": 81,
+    "humidity": 45,
+    "windMph": 11,
+    "windDir": "NW",
+    "text": "Partly Cloudy",
+    "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-22T23:20:00+00:00"
+    "observedAt": "2026-07-23T00:50:00+00:00"
   },
   "periods": [
     {
@@ -22,11 +22,11 @@
       "isDaytime": false,
       "tempF": 66,
       "unit": "F",
-      "wind": "7 to 13 mph NW",
+      "wind": "7 to 10 mph NW",
       "short": "Partly Cloudy",
-      "detailed": "Partly cloudy. Low around 66, with temperatures rising to around 68 overnight. Northwest wind 7 to 13 mph.",
+      "detailed": "Partly cloudy. Low around 66, with temperatures rising to around 68 overnight. Northwest wind 7 to 10 mph.",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-      "precip": 6
+      "precip": 1
     },
     {
       "name": "Thursday",
@@ -130,13 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-22T19:00:00-04:00",
-      "tempF": 84,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 6
-    },
-    {
       "time": "2026-07-22T20:00:00-04:00",
       "tempF": 83,
       "short": "Mostly Clear",
@@ -209,6 +202,13 @@
     {
       "time": "2026-07-23T06:00:00-04:00",
       "tempF": 67,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-23T07:00:00-04:00",
+      "tempF": 66,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/few?size=small",
       "precip": 0

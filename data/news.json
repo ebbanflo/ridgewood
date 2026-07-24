@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T12:48:22.657622+00:00",
+  "updated": "2026-07-24T14:27:43.669228+00:00",
   "count": 18,
   "items": [
     {
@@ -50,6 +50,13 @@
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "source": "New York YIMBY",
       "summary": "Permits Filed for 16-77 George Street in Ridgewood, Queens    New York YIMBY"
+    },
+    {
+      "title": "Developer Ami Weinstock Files Plans for 97-Unit Project in Ridgewood, Queens",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS0Q5N1BGN0FkRU9VSmtPaVpjTzAtWE5qWHNaQVpIdklJY3hxWGdDcjNNdG1yTFhCb1c3em5QMVk5WW5qY01SbWp0UTh6NldiNjc4cDVGVklSY3R1T25iTHlja1NfdEtwbk1ZNGpZWkRYbnd3aXRia1ZtQjctMDVmamx0M0xYYTNnYUhza0hLNEQ0Zw?oc=5",
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "source": "Commercial Observer",
+      "summary": "Developer Ami Weinstock Files Plans for 97-Unit Project in Ridgewood, Queens    Commercial Observer"
     },
     {
       "title": "Short Film Premiere: “Afterimage” Explores Memories of Moviegoing in Ridgewood, Queens",
@@ -120,13 +127,6 @@
       "published": "Sun, 18 Jan 2026 08:00:00 GMT",
       "source": "ABC7 New York",
       "summary": "Queens apartment building fire in Ridgewood injures at least 9 people    ABC7 New York"
-    },
-    {
-      "title": "Police Activity at Auto Body Shop",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SUXM2bUc1WHZ5VXJUM1puaTBJSkQteklBSTlrOUJDajJYVnY3NlJyZFVZOXhtdWFkMHpFRDlsWkdIZzJfbWNXQXVoX3JiN2xTWWc?oc=5",
-      "published": "Mon, 22 Jun 2026 20:52:48 GMT",
-      "source": "Citizen app",
-      "summary": "Police Activity at Auto Body Shop    Citizen app"
     }
   ]
 }

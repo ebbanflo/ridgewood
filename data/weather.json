@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-24T07:04:54.076946+00:00",
+  "updated": "2026-07-24T09:28:41.580405+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 72,
-    "feelsF": 71,
-    "humidity": 53,
+    "tempF": 70,
+    "feelsF": null,
+    "humidity": 60,
     "windMph": 3,
-    "windDir": "W",
-    "text": "Clear",
-    "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+    "windDir": "NNW",
+    "text": "",
+    "icon": null,
     "station": "KLGA",
-    "observedAt": "2026-07-24T06:40:00+00:00"
+    "observedAt": "2026-07-24T09:10:00+00:00"
   },
   "periods": [
     {
@@ -22,9 +22,9 @@
       "isDaytime": false,
       "tempF": 67,
       "unit": "F",
-      "wind": "2 mph NE",
+      "wind": "2 mph N",
       "short": "Clear",
-      "detailed": "Clear, with a low around 67. Northeast wind around 2 mph.",
+      "detailed": "Clear, with a low around 67. North wind around 2 mph.",
       "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
       "precip": 0
     },
@@ -130,20 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-24T03:00:00-04:00",
-      "tempF": 67,
-      "short": "Clear",
-      "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-24T04:00:00-04:00",
-      "tempF": 67,
-      "short": "Clear",
-      "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
-      "precip": 0
-    },
-    {
       "time": "2026-07-24T05:00:00-04:00",
       "tempF": 67,
       "short": "Clear",
@@ -211,6 +197,20 @@
       "tempF": 82,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-24T15:00:00-04:00",
+      "tempF": 82,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-24T16:00:00-04:00",
+      "tempF": 83,
+      "short": "Mostly Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
       "precip": 0
     }
   ]

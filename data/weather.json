@@ -1,33 +1,22 @@
 {
-  "updated": "2026-07-24T21:30:09.394342+00:00",
+  "updated": "2026-07-24T22:36:43.384962+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 81,
-    "feelsF": 80,
-    "humidity": 39,
-    "windMph": 9,
-    "windDir": "SSE",
+    "tempF": 79,
+    "feelsF": 78,
+    "humidity": 42,
+    "windMph": 11,
+    "windDir": "S",
     "text": "Clear",
     "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-24T21:05:00+00:00"
+    "observedAt": "2026-07-24T22:15:00+00:00"
   },
   "periods": [
-    {
-      "name": "This Afternoon",
-      "isDaytime": true,
-      "tempF": 83,
-      "unit": "F",
-      "wind": "10 mph SE",
-      "short": "Mostly Sunny",
-      "detailed": "Mostly sunny. High near 83, with temperatures falling to around 80 in the afternoon. Southeast wind around 10 mph.",
-      "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-      "precip": 0
-    },
     {
       "name": "Tonight",
       "isDaytime": false,
@@ -79,7 +68,7 @@
       "unit": "F",
       "wind": "3 to 9 mph S",
       "short": "Mostly Clear",
-      "detailed": "Mostly clear, with a low around 68.",
+      "detailed": "Mostly clear, with a low around 68. South wind 3 to 9 mph.",
       "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
       "precip": 2
     },
@@ -90,7 +79,7 @@
       "unit": "F",
       "wind": "3 to 14 mph S",
       "short": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed": "A chance of showers and thunderstorms after 5pm. Mostly sunny, with a high near 85. Chance of precipitation is 30%.",
+      "detailed": "A chance of showers and thunderstorms after 5pm. Mostly sunny. High near 85, with temperatures falling to around 81 in the afternoon. Chance of precipitation is 30%.",
       "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,30?size=medium",
       "precip": 26
     },
@@ -126,16 +115,20 @@
       "detailed": "Showers and thunderstorms. Mostly cloudy, with a low around 70. Chance of precipitation is 80%.",
       "icon": "https://api.weather.gov/icons/land/night/tsra_sct,80/tsra_sct,60?size=medium",
       "precip": 77
+    },
+    {
+      "name": "Wednesday",
+      "isDaytime": true,
+      "tempF": 83,
+      "unit": "F",
+      "wind": "10 mph N",
+      "short": "Chance Showers And Thunderstorms",
+      "detailed": "A chance of showers and thunderstorms. Partly sunny, with a high near 83. Chance of precipitation is 40%.",
+      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30/tsra_hi,40?size=medium",
+      "precip": 40
     }
   ],
   "hours": [
-    {
-      "time": "2026-07-24T17:00:00-04:00",
-      "tempF": 80,
-      "short": "Mostly Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
-      "precip": 0
-    },
     {
       "time": "2026-07-24T18:00:00-04:00",
       "tempF": 77,
@@ -209,6 +202,13 @@
     {
       "time": "2026-07-25T04:00:00-04:00",
       "tempF": 67,
+      "short": "Partly Cloudy",
+      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-25T05:00:00-04:00",
+      "tempF": 66,
       "short": "Partly Cloudy",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
       "precip": 0

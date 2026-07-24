@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-23T23:36:50.579245+00:00",
+  "updated": "2026-07-24T01:03:41.540284+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 75,
-    "feelsF": 75,
-    "humidity": 47,
-    "windMph": 10,
+    "tempF": 73,
+    "feelsF": 73,
+    "humidity": 53,
+    "windMph": 9,
     "windDir": "S",
     "text": "Clear",
-    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+    "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-23T23:20:00+00:00"
+    "observedAt": "2026-07-24T00:45:00+00:00"
   },
   "periods": [
     {
@@ -22,9 +22,9 @@
       "isDaytime": false,
       "tempF": 66,
       "unit": "F",
-      "wind": "2 to 7 mph SE",
+      "wind": "2 to 6 mph SE",
       "short": "Mostly Clear",
-      "detailed": "Mostly clear, with a low around 66. Southeast wind 2 to 7 mph.",
+      "detailed": "Mostly clear, with a low around 66. Southeast wind 2 to 6 mph.",
       "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
       "precip": 0
     },
@@ -130,20 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-23T19:00:00-04:00",
-      "tempF": 77,
-      "short": "Clear",
-      "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-23T20:00:00-04:00",
-      "tempF": 74,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
       "time": "2026-07-23T21:00:00-04:00",
       "tempF": 72,
       "short": "Mostly Clear",
@@ -209,6 +195,20 @@
     {
       "time": "2026-07-24T06:00:00-04:00",
       "tempF": 66,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-24T07:00:00-04:00",
+      "tempF": 68,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-24T08:00:00-04:00",
+      "tempF": 70,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
       "precip": 0

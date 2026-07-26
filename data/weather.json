@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T04:44:10.002502+00:00",
+  "updated": "2026-07-26T07:23:49.823779+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
@@ -9,12 +9,12 @@
     "tempF": 70,
     "feelsF": null,
     "humidity": 56,
-    "windMph": 5,
-    "windDir": "SE",
-    "text": "",
-    "icon": null,
+    "windMph": 0,
+    "windDir": "N",
+    "text": "Clear",
+    "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-26T04:25:00+00:00"
+    "observedAt": "2026-07-26T07:10:00+00:00"
   },
   "periods": [
     {
@@ -31,11 +31,11 @@
     {
       "name": "Sunday",
       "isDaytime": true,
-      "tempF": 83,
+      "tempF": 84,
       "unit": "F",
-      "wind": "3 to 10 mph E",
+      "wind": "2 to 9 mph NE",
       "short": "Sunny",
-      "detailed": "Sunny. High near 83, with temperatures falling to around 80 in the afternoon. East wind 3 to 10 mph.",
+      "detailed": "Sunny. High near 84, with temperatures falling to around 82 in the afternoon. Northeast wind 2 to 9 mph.",
       "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
       "precip": 0
     },
@@ -44,115 +44,94 @@
       "isDaytime": false,
       "tempF": 68,
       "unit": "F",
-      "wind": "3 to 10 mph S",
+      "wind": "3 to 9 mph S",
       "short": "Mostly Clear",
-      "detailed": "Mostly clear, with a low around 68. South wind 3 to 10 mph.",
+      "detailed": "Mostly clear. Low around 68, with temperatures rising to around 70 overnight. South wind 3 to 9 mph.",
       "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-      "precip": 0
+      "precip": 2
     },
     {
       "name": "Monday",
       "isDaytime": true,
-      "tempF": 82,
+      "tempF": 84,
       "unit": "F",
       "wind": "3 to 13 mph S",
       "short": "Mostly Sunny then Chance Showers And Thunderstorms",
-      "detailed": "A chance of showers and thunderstorms after 2pm. Mostly sunny. High near 82, with temperatures falling to around 80 in the afternoon. South wind 3 to 13 mph. Chance of precipitation is 40%.",
+      "detailed": "A chance of showers and thunderstorms after 2pm. Mostly sunny. High near 84, with temperatures falling to around 82 in the afternoon. South wind 3 to 13 mph. Chance of precipitation is 40%.",
       "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,40?size=medium",
-      "precip": 35
+      "precip": 36
     },
     {
       "name": "Monday Night",
       "isDaytime": false,
       "tempF": 70,
       "unit": "F",
-      "wind": "7 to 13 mph S",
+      "wind": "6 to 12 mph S",
       "short": "Chance Showers And Thunderstorms",
-      "detailed": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 70. South wind 7 to 13 mph. Chance of precipitation is 50%.",
-      "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50?size=medium",
-      "precip": 48
+      "detailed": "A chance of showers and thunderstorms. Partly cloudy, with a low around 70. South wind 6 to 12 mph. Chance of precipitation is 40%.",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/tsra_hi,40?size=medium",
+      "precip": 43
     },
     {
       "name": "Tuesday",
       "isDaytime": true,
       "tempF": 80,
       "unit": "F",
-      "wind": "7 to 16 mph S",
+      "wind": "6 to 16 mph S",
       "short": "Showers And Thunderstorms",
-      "detailed": "Rain showers likely before 11am, then showers and thunderstorms. Mostly cloudy. High near 80, with temperatures falling to around 77 in the afternoon. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible.",
-      "icon": "https://api.weather.gov/icons/land/day/tsra,70/tsra,80?size=medium",
-      "precip": 84
+      "detailed": "Rain showers before 11am, then showers and thunderstorms. Mostly cloudy. High near 80, with temperatures falling to around 77 in the afternoon. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible.",
+      "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,90?size=medium",
+      "precip": 85
     },
     {
       "name": "Tuesday Night",
       "isDaytime": false,
       "tempF": 69,
       "unit": "F",
-      "wind": "9 to 15 mph E",
+      "wind": "12 to 16 mph S",
       "short": "Showers And Thunderstorms",
-      "detailed": "Showers and thunderstorms. Mostly cloudy, with a low around 69. Chance of precipitation is 80%.",
-      "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
-      "precip": 84
+      "detailed": "Showers and thunderstorms. Mostly cloudy, with a low around 69. Chance of precipitation is 90%.",
+      "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,80?size=medium",
+      "precip": 85
     },
     {
       "name": "Wednesday",
       "isDaytime": true,
       "tempF": 80,
       "unit": "F",
-      "wind": "10 to 14 mph NE",
+      "wind": "13 mph NE",
       "short": "Showers And Thunderstorms Likely",
-      "detailed": "A chance of rain showers before 8am, then showers and thunderstorms likely. Mostly cloudy, with a high near 80. Chance of precipitation is 60%.",
-      "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50/tsra_sct,60?size=medium",
-      "precip": 59
+      "detailed": "Showers and thunderstorms likely. Mostly cloudy, with a high near 80. Chance of precipitation is 70%.",
+      "icon": "https://api.weather.gov/icons/land/day/tsra,60/tsra,70?size=medium",
+      "precip": 71
     },
     {
       "name": "Wednesday Night",
       "isDaytime": false,
       "tempF": 68,
       "unit": "F",
-      "wind": "12 mph N",
+      "wind": "9 to 13 mph N",
       "short": "Showers And Thunderstorms Likely",
-      "detailed": "Showers and thunderstorms likely. Mostly cloudy, with a low around 68. Chance of precipitation is 60%.",
-      "icon": "https://api.weather.gov/icons/land/night/tsra_sct,60/tsra_sct,40?size=medium",
-      "precip": 59
+      "detailed": "Showers and thunderstorms likely. Mostly cloudy, with a low around 68. Chance of precipitation is 70%.",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_sct,70/tsra_sct,50?size=medium",
+      "precip": 71
     },
     {
       "name": "Thursday",
       "isDaytime": true,
-      "tempF": 83,
+      "tempF": 81,
       "unit": "F",
-      "wind": "10 mph NW",
-      "short": "Chance Rain Showers",
-      "detailed": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 83. Chance of precipitation is 30%.",
+      "wind": "12 mph NW",
+      "short": "Chance Rain Showers then Chance Showers And Thunderstorms",
+      "detailed": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 81. Chance of precipitation is 30%.",
       "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra_hi,30?size=medium",
-      "precip": 30
+      "precip": 31
     }
   ],
   "hours": [
     {
-      "time": "2026-07-26T00:00:00-04:00",
-      "tempF": 70,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-26T01:00:00-04:00",
-      "tempF": 70,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-26T02:00:00-04:00",
-      "tempF": 69,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
       "time": "2026-07-26T03:00:00-04:00",
-      "tempF": 68,
+      "tempF": 67,
       "short": "Mostly Clear",
       "icon": "https://api.weather.gov/icons/land/night/few?size=small",
       "precip": 0
@@ -173,14 +152,14 @@
     },
     {
       "time": "2026-07-26T06:00:00-04:00",
-      "tempF": 67,
+      "tempF": 66,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/few?size=small",
       "precip": 0
     },
     {
       "time": "2026-07-26T07:00:00-04:00",
-      "tempF": 69,
+      "tempF": 66,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/few?size=small",
       "precip": 0
@@ -189,28 +168,49 @@
       "time": "2026-07-26T08:00:00-04:00",
       "tempF": 70,
       "short": "Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
       "precip": 0
     },
     {
       "time": "2026-07-26T09:00:00-04:00",
-      "tempF": 72,
+      "tempF": 73,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
       "precip": 0
     },
     {
       "time": "2026-07-26T10:00:00-04:00",
-      "tempF": 75,
+      "tempF": 76,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
       "precip": 0
     },
     {
       "time": "2026-07-26T11:00:00-04:00",
-      "tempF": 77,
+      "tempF": 79,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-26T12:00:00-04:00",
+      "tempF": 81,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-26T13:00:00-04:00",
+      "tempF": 82,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-26T14:00:00-04:00",
+      "tempF": 83,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
       "precip": 0
     }
   ]

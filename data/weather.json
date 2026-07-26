@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T07:23:49.823779+00:00",
+  "updated": "2026-07-26T09:31:39.999937+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
@@ -8,13 +8,13 @@
   "current": {
     "tempF": 70,
     "feelsF": null,
-    "humidity": 56,
-    "windMph": 0,
-    "windDir": "N",
+    "humidity": 64,
+    "windMph": 5,
+    "windDir": "WNW",
     "text": "Clear",
     "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-26T07:10:00+00:00"
+    "observedAt": "2026-07-26T09:10:00+00:00"
   },
   "periods": [
     {
@@ -130,20 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-26T03:00:00-04:00",
-      "tempF": 67,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-26T04:00:00-04:00",
-      "tempF": 67,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
       "time": "2026-07-26T05:00:00-04:00",
       "tempF": 67,
       "short": "Mostly Clear",
@@ -211,6 +197,20 @@
       "tempF": 83,
       "short": "Sunny",
       "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-26T15:00:00-04:00",
+      "tempF": 83,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+      "precip": 0
+    },
+    {
+      "time": "2026-07-26T16:00:00-04:00",
+      "tempF": 83,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
       "precip": 0
     }
   ]

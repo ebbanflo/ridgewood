@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-26T12:12:05.265111+00:00",
+  "updated": "2026-07-26T13:59:31.567209+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 72,
-    "feelsF": 71,
+    "tempF": 73,
+    "feelsF": 73,
     "humidity": 57,
-    "windMph": 3,
-    "windDir": "NW",
-    "text": "Mostly Clear",
-    "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+    "windMph": 6,
+    "windDir": "NE",
+    "text": "Clear",
+    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-26T11:50:00+00:00"
+    "observedAt": "2026-07-26T13:35:00+00:00"
   },
   "periods": [
     {
@@ -22,10 +22,10 @@
       "isDaytime": true,
       "tempF": 84,
       "unit": "F",
-      "wind": "2 to 9 mph NE",
+      "wind": "2 to 9 mph E",
       "short": "Sunny",
-      "detailed": "Sunny. High near 84, with temperatures falling to around 82 in the afternoon. Northeast wind 2 to 9 mph.",
-      "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+      "detailed": "Sunny. High near 84, with temperatures falling to around 82 in the afternoon. East wind 2 to 9 mph.",
+      "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
       "precip": 0
     },
     {
@@ -130,13 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-26T08:00:00-04:00",
-      "tempF": 70,
-      "short": "Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
-      "precip": 0
-    },
-    {
       "time": "2026-07-26T09:00:00-04:00",
       "tempF": 73,
       "short": "Sunny",
@@ -212,6 +205,13 @@
       "short": "Mostly Clear",
       "icon": "https://api.weather.gov/icons/land/night/few?size=small",
       "precip": 0
+    },
+    {
+      "time": "2026-07-26T20:00:00-04:00",
+      "tempF": 76,
+      "short": "Mostly Clear",
+      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
+      "precip": 1
     }
   ]
 }

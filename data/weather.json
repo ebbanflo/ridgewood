@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-27T11:48:43.671320+00:00",
+  "updated": "2026-07-27T14:01:08.681379+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 75,
-    "feelsF": 75,
-    "humidity": 65,
-    "windMph": 0,
-    "windDir": "N",
+    "tempF": 79,
+    "feelsF": 79,
+    "humidity": 61,
+    "windMph": null,
+    "windDir": null,
     "text": "Mostly Clear",
     "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-27T11:25:00+00:00"
+    "observedAt": "2026-07-27T13:35:00+00:00"
   },
   "periods": [
     {
@@ -22,9 +22,9 @@
       "isDaytime": true,
       "tempF": 83,
       "unit": "F",
-      "wind": "2 to 12 mph S",
+      "wind": "3 to 12 mph S",
       "short": "Chance Showers And Thunderstorms",
-      "detailed": "A chance of showers and thunderstorms after 11am. Mostly sunny. High near 83, with temperatures falling to around 81 in the afternoon. South wind 2 to 12 mph. Chance of precipitation is 30%.",
+      "detailed": "A chance of showers and thunderstorms after 11am. Mostly sunny. High near 83, with temperatures falling to around 81 in the afternoon. South wind 3 to 12 mph. Chance of precipitation is 30%.",
       "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20/tsra_hi,30?size=medium",
       "precip": 30
     },
@@ -130,27 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-27T07:00:00-04:00",
-      "tempF": 71,
-      "short": "Mostly Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
-      "precip": 12
-    },
-    {
-      "time": "2026-07-27T08:00:00-04:00",
-      "tempF": 73,
-      "short": "Mostly Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
-      "precip": 3
-    },
-    {
-      "time": "2026-07-27T09:00:00-04:00",
-      "tempF": 76,
-      "short": "Mostly Sunny",
-      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
-      "precip": 3
-    },
-    {
       "time": "2026-07-27T10:00:00-04:00",
       "tempF": 79,
       "short": "Mostly Sunny",
@@ -212,6 +191,27 @@
       "short": "Slight Chance Showers And Thunderstorms",
       "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
       "precip": 24
+    },
+    {
+      "time": "2026-07-27T19:00:00-04:00",
+      "tempF": 79,
+      "short": "Slight Chance Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
+      "precip": 24
+    },
+    {
+      "time": "2026-07-27T20:00:00-04:00",
+      "tempF": 76,
+      "short": "Slight Chance Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
+      "precip": 16
+    },
+    {
+      "time": "2026-07-27T21:00:00-04:00",
+      "tempF": 76,
+      "short": "Slight Chance Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
+      "precip": 16
     }
   ]
 }

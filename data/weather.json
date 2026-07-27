@@ -1,33 +1,22 @@
 {
-  "updated": "2026-07-27T21:04:43.649673+00:00",
+  "updated": "2026-07-27T22:14:56.211102+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 82,
+    "tempF": 83,
     "feelsF": 85,
-    "humidity": 58,
-    "windMph": 16,
-    "windDir": "S",
-    "text": "Clear",
-    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+    "humidity": 55,
+    "windMph": 13,
+    "windDir": "SSE",
+    "text": "Mostly Cloudy",
+    "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-27T20:45:00+00:00"
+    "observedAt": "2026-07-27T21:51:00+00:00"
   },
   "periods": [
-    {
-      "name": "This Afternoon",
-      "isDaytime": true,
-      "tempF": 84,
-      "unit": "F",
-      "wind": "12 mph S",
-      "short": "Chance Showers And Thunderstorms",
-      "detailed": "A chance of showers and thunderstorms. Partly sunny. High near 84, with temperatures falling to around 81 in the afternoon. South wind around 12 mph. Chance of precipitation is 30%.",
-      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30?size=medium",
-      "precip": 33
-    },
     {
       "name": "Tonight",
       "isDaytime": false,
@@ -79,7 +68,7 @@
       "unit": "F",
       "wind": "10 mph NW",
       "short": "Showers And Thunderstorms Likely",
-      "detailed": "Showers and thunderstorms likely. Mostly cloudy, with a low around 68. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
+      "detailed": "Showers and thunderstorms likely. Mostly cloudy, with a low around 68. Northwest wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
       "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,60?size=medium",
       "precip": 72
     },
@@ -90,7 +79,7 @@
       "unit": "F",
       "wind": "12 mph NW",
       "short": "Showers And Thunderstorms Likely",
-      "detailed": "A chance of rain showers before 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 78. Chance of precipitation is 60%.",
+      "detailed": "A chance of rain showers before 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 78. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.",
       "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/tsra_sct,60?size=medium",
       "precip": 64
     },
@@ -126,23 +115,20 @@
       "detailed": "A chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 70. Chance of precipitation is 30%.",
       "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
       "precip": 26
+    },
+    {
+      "name": "Saturday",
+      "isDaytime": true,
+      "tempF": 83,
+      "unit": "F",
+      "wind": "5 to 9 mph NE",
+      "short": "Mostly Sunny",
+      "detailed": "Mostly sunny, with a high near 83.",
+      "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+      "precip": 7
     }
   ],
   "hours": [
-    {
-      "time": "2026-07-27T16:00:00-04:00",
-      "tempF": 82,
-      "short": "Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30?size=small",
-      "precip": 33
-    },
-    {
-      "time": "2026-07-27T17:00:00-04:00",
-      "tempF": 81,
-      "short": "Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30?size=small",
-      "precip": 33
-    },
     {
       "time": "2026-07-27T18:00:00-04:00",
       "tempF": 80,
@@ -212,6 +198,20 @@
       "short": "Slight Chance Showers And Thunderstorms",
       "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
       "precip": 24
+    },
+    {
+      "time": "2026-07-28T04:00:00-04:00",
+      "tempF": 72,
+      "short": "Slight Chance Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
+      "precip": 24
+    },
+    {
+      "time": "2026-07-28T05:00:00-04:00",
+      "tempF": 72,
+      "short": "Chance Showers And Thunderstorms",
+      "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30?size=small",
+      "precip": 25
     }
   ]
 }

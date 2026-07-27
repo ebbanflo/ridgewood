@@ -213,5 +213,8 @@
       "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
       "precip": 9
     }
-  ]
+  ],
+  "stale": true,
+  "lastError": "HTTPSConnectionPool(host='api.weather.gov', port=443): Read timed out. (read timeout=25)",
+  "lastErrorAt": "2026-07-27T01:14:55.254083+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T16:31:11.500008+00:00",
+  "updated": "2026-07-27T19:52:11.226893+00:00",
   "count": 14,
   "items": [
     {
@@ -86,8 +86,5 @@
       "source": "Sprudge",
       "summary": "The Sprudge Guide to Coffee in Queens, New York    Sprudge"
     }
-  ],
-  "stale": true,
-  "lastError": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ridgewood%20Queens%22%20%28restaurant%20OR%20cafe%20OR%20coffee%20OR%20bar%20OR%20bakery%20OR%20shop%20OR%20store%20OR%20opening%20OR%20opens%20OR%20%22now%20open%22%20OR%20%22new%20spot%22%29&hl=en-US&gl=US&ceid=US:en",
-  "lastErrorAt": "2026-07-27T18:09:48.055631+00:00"
+  ]
 }

@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-27T16:31:10.043092+00:00",
+  "updated": "2026-07-27T19:52:09.714806+00:00",
   "count": 18,
   "items": [
+    {
+      "title": "Police Presence",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyX3EtYjBKTy1lMGVNVkVtRWF6UktxemJTOGt2dG51OVpRTGMxQjBtWEVlbUlGZW9IYXZBREVwUkFmeFFwZ0ZnZzhjQ21BN01NblE?oc=5",
+      "published": "Mon, 27 Jul 2026 01:53:31 GMT",
+      "source": "Citizen app",
+      "summary": "Police Presence    Citizen app"
+    },
     {
       "title": "A Perfect Day in Ridgewood, Queens, According to a Travel Editor",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa25ncTN1YlZRUFZLNXF4Xy1wUmJGanVnMHhTYWVSOHNVWDJIRWVmSVpfVHJrd0dMQ3hrUjR6eVl3WTRpSzFoaERaN1JjV3RHNVBueUFqelVxaE9zY003bGRQTm4xSTNicXBOQ1J5OVBKbUZfWi04ei16dVlxb3NiUmoxMGR1LU13ZVdVTzUyV1RfREU4QkhxWHYxNA?oc=5",
       "published": "Sat, 27 Sep 2025 07:00:00 GMT",
       "source": "Condé Nast Traveler",
       "summary": "A Perfect Day in Ridgewood, Queens, According to a Travel Editor    Condé Nast Traveler"
-    },
-    {
-      "title": "Altercation on Sidewalk",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4aERvcVM0Qm1oVzM4RldDWFVUZzBtWE9sTWxTcTY1TG13U0J4QkFuQjRCRGp5TzJveWJwVmlHUkUxWHBvY3hJLUxOXzN2bE5Uc1E?oc=5",
-      "published": "Fri, 17 Jul 2026 05:08:34 GMT",
-      "source": "Citizen app",
-      "summary": "Altercation on Sidewalk    Citizen app"
     },
     {
       "title": "Red Cross assisting 60 displaced residents after Ridgewood, Queens fire injured 5 FDNY firefighters, 1 resident",
@@ -66,18 +66,11 @@
       "summary": "Short Film Premiere: “Afterimage” Explores Memories of Moviegoing in Ridgewood, Queens    Filmmaker Magazine"
     },
     {
-      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVI3a2llRWl3WU1ib2JlVzZtb1hrTGphcVJJWHU0LVF0QTRnM1VkWWxlUVlTWTlZWmJxQjFKdldYUUJvbFJXcHhCNWIzWGFoeENsR1dxRXYtbHVEdU14NElwclI1VXAtTkdTMEpiMzhHWHplT2VoOGhTWjlTRVV3aGU0M080eFJweHFtZVlETzRsU3c?oc=5",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "source": "NPR",
-      "summary": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days    NPR"
-    },
-    {
-      "title": "Vehicle Collision",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00dzUtRC15WGlCSHNSaUhWNXQ4ZDN1eWxxSmxwN1JqbzRtRlpYOHN1R0xzWUdfZmx6d3NLY3JndmFpcDVUNlRkZmdWcEpLcG9UU0E?oc=5",
-      "published": "Wed, 08 Jul 2026 00:38:10 GMT",
+      "title": "Altercation on Sidewalk",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4aERvcVM0Qm1oVzM4RldDWFVUZzBtWE9sTWxTcTY1TG13U0J4QkFuQjRCRGp5TzJveWJwVmlHUkUxWHBvY3hJLUxOXzN2bE5Uc1E?oc=5",
+      "published": "Fri, 17 Jul 2026 05:08:34 GMT",
       "source": "Citizen app",
-      "summary": "Vehicle Collision    Citizen app"
+      "summary": "Altercation on Sidewalk    Citizen app"
     },
     {
       "title": "Queens shooting: 23-year-old woman, innocent bystander, shot in leg in Ridgewood",
@@ -92,6 +85,13 @@
       "published": "Mon, 02 Feb 2026 08:00:00 GMT",
       "source": "CBS News",
       "summary": "Overflowing manhole is creating a lot of angst in Ridgewood, Queens    CBS News"
+    },
+    {
+      "title": "Vehicle Collision",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00dzUtRC15WGlCSHNSaUhWNXQ4ZDN1eWxxSmxwN1JqbzRtRlpYOHN1R0xzWUdfZmx6d3NLY3JndmFpcDVUNlRkZmdWcEpLcG9UU0E?oc=5",
+      "published": "Wed, 08 Jul 2026 00:38:10 GMT",
+      "source": "Citizen app",
+      "summary": "Vehicle Collision    Citizen app"
     },
     {
       "title": "Ridgewood, Queens fire injures 5 FDNY firefighters, 1 resident",
@@ -128,8 +128,5 @@
       "source": "Citizen app",
       "summary": "Police Activity at Auto Body Shop    Citizen app"
     }
-  ],
-  "stale": true,
-  "lastError": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Ridgewood%20Queens%22%20OR%20%22Ridgewood%2C%20Queens%22&hl=en-US&gl=US&ceid=US:en",
-  "lastErrorAt": "2026-07-27T18:09:38.991129+00:00"
+  ]
 }

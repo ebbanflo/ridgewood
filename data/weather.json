@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-26T23:35:59.994660+00:00",
+  "updated": "2026-07-27T04:54:07.421660+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
     "lon": -73.906
   },
   "current": {
-    "tempF": 77,
-    "feelsF": 77,
-    "humidity": 57,
-    "windMph": 11,
+    "tempF": 75,
+    "feelsF": 75,
+    "humidity": 61,
+    "windMph": 7,
     "windDir": "S",
-    "text": "Clear",
-    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+    "text": "Partly Cloudy",
+    "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-26T23:20:00+00:00"
+    "observedAt": "2026-07-27T04:35:00+00:00"
   },
   "periods": [
     {
@@ -22,9 +22,9 @@
       "isDaytime": false,
       "tempF": 69,
       "unit": "F",
-      "wind": "5 to 9 mph S",
+      "wind": "6 mph SW",
       "short": "Partly Cloudy",
-      "detailed": "Partly cloudy, with a low around 69. South wind 5 to 9 mph.",
+      "detailed": "Partly cloudy, with a low around 69. Southwest wind around 6 mph.",
       "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
       "precip": 9
     },
@@ -130,41 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-26T19:00:00-04:00",
-      "tempF": 79,
-      "short": "Mostly Clear",
-      "icon": "https://api.weather.gov/icons/land/night/few?size=small",
-      "precip": 0
-    },
-    {
-      "time": "2026-07-26T20:00:00-04:00",
-      "tempF": 76,
-      "short": "Partly Cloudy",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-      "precip": 3
-    },
-    {
-      "time": "2026-07-26T21:00:00-04:00",
-      "tempF": 74,
-      "short": "Partly Cloudy",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-      "precip": 3
-    },
-    {
-      "time": "2026-07-26T22:00:00-04:00",
-      "tempF": 74,
-      "short": "Partly Cloudy",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-      "precip": 3
-    },
-    {
-      "time": "2026-07-26T23:00:00-04:00",
-      "tempF": 73,
-      "short": "Partly Cloudy",
-      "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
-      "precip": 5
-    },
-    {
       "time": "2026-07-27T00:00:00-04:00",
       "tempF": 73,
       "short": "Partly Cloudy",
@@ -212,9 +177,41 @@
       "short": "Mostly Sunny",
       "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
       "precip": 9
+    },
+    {
+      "time": "2026-07-27T07:00:00-04:00",
+      "tempF": 71,
+      "short": "Mostly Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+      "precip": 9
+    },
+    {
+      "time": "2026-07-27T08:00:00-04:00",
+      "tempF": 72,
+      "short": "Mostly Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+      "precip": 4
+    },
+    {
+      "time": "2026-07-27T09:00:00-04:00",
+      "tempF": 74,
+      "short": "Mostly Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+      "precip": 4
+    },
+    {
+      "time": "2026-07-27T10:00:00-04:00",
+      "tempF": 78,
+      "short": "Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/few?size=small",
+      "precip": 4
+    },
+    {
+      "time": "2026-07-27T11:00:00-04:00",
+      "tempF": 80,
+      "short": "Mostly Sunny",
+      "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+      "precip": 14
     }
-  ],
-  "stale": true,
-  "lastError": "HTTPSConnectionPool(host='api.weather.gov', port=443): Read timed out. (read timeout=25)",
-  "lastErrorAt": "2026-07-27T01:14:55.254083+00:00"
+  ]
 }

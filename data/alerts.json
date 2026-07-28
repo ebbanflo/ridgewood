@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-28T18:24:41.740817+00:00",
+  "updated": "2026-07-28T19:59:11.658576+00:00",
   "count": 1,
   "alerts": [
     {
-      "id": "urn:oid:2.49.0.1.840.0.695f82fd8ceb8eba71e29ab1fe46dc23ac0845e0.004.1",
+      "id": "urn:oid:2.49.0.1.840.0.6dbb14c73c2331a06d914baa758ca3f0a5bf47e9.002.1",
       "event": "Flood Watch",
       "severity": "Severe",
       "urgency": "Future",
       "certainty": "Possible",
-      "headline": "Flood Watch issued July 28 at 2:53AM EDT until July 29 at 8:00PM EDT by NWS Upton NY",
-      "description": "* WHAT...Flash flooding caused by excessive rainfall continues to be\npossible.\n\n* WHERE...Portions of northeast New Jersey, including the following\nareas, Eastern Bergen, Eastern Essex, Eastern Passaic, Eastern\nUnion, Hudson, Western Essex and Western Union and southeast New\nYork, including the following areas, Bronx, Kings (Brooklyn), New\nYork (Manhattan), Northern Queens, Richmond (Staten Island),\nSouthern Queens and Southern Westchester.\n\n* WHEN...From 8 AM EDT this morning through Wednesday evening.\n\n* IMPACTS...Excessive runoff may result in flooding of rivers,\ncreeks, streams, and other low-lying and flood-prone locations.\n\n* ADDITIONAL DETAILS...\n- A slow moving low pressure system will bring multiple rounds\nof heavy showers and thunderstorms to the area today through\nWednesday. Average rainfall amounts are expected to be\nbetween 2 and 3 inches with localized higher amounts. Peak\nhourly rainfall rates could be as high as 1.5 to 2.5 inches\nin the heaviest showers and thunderstorms.\n- http://www.weather.gov/safety/flood",
+      "headline": "Flood Watch issued July 28 at 2:25PM EDT until July 29 at 8:00PM EDT by NWS Upton NY",
+      "description": "* WHAT...Flash flooding caused by excessive rainfall continues to be\npossible.\n\n* WHERE...Portions of northeast New Jersey, including the following\nareas, Eastern Bergen, Eastern Essex, Eastern Passaic, Eastern\nUnion, Hudson, Western Essex and Western Union and southeast New\nYork, including the following areas, Bronx, Kings (Brooklyn), New\nYork (Manhattan), Northern Queens, Richmond (Staten Island),\nSouthern Queens and Southern Westchester.\n\n* WHEN...Through Wednesday evening.\n\n* IMPACTS...Excessive runoff may result in flooding of rivers,\ncreeks, streams, and other low-lying and flood-prone locations.\n\n* ADDITIONAL DETAILS...\n- A slow moving low pressure system will bring multiple rounds\nof heavy showers and thunderstorms to the area today through\nWednesday. Average rainfall amounts are expected to be\nbetween 2.5 and 3.5 inches with localized higher amounts.\nPeak hourly rainfall rates could be as high as 2 to 3 inches\nin the heaviest showers and thunderstorms. Most of the\nrainfall is expected to fall through tonight, however\nflooding is still possible on Wednesday.\n- http://www.weather.gov/safety/flood",
       "instruction": "You should monitor later forecasts and be prepared to take action\nshould Flash Flood Warnings be issued.",
-      "onset": "2026-07-28T08:00:00-04:00",
-      "expires": "2026-07-28T18:00:00-04:00",
+      "onset": "2026-07-28T14:25:00-04:00",
+      "expires": "2026-07-29T06:15:00-04:00",
       "sender": "NWS Upton NY",
       "geometry": null
     }

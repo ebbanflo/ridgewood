@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-28T03:56:58.917672+00:00",
+  "updated": "2026-07-28T06:25:02.406056+00:00",
   "count": 18,
   "items": [
+    {
+      "title": "Police Presence",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyX3EtYjBKTy1lMGVNVkVtRWF6UktxemJTOGt2dG51OVpRTGMxQjBtWEVlbUlGZW9IYXZBREVwUkFmeFFwZ0ZnZzhjQ21BN01NblE?oc=5",
+      "published": "Mon, 27 Jul 2026 01:53:31 GMT",
+      "source": "Citizen app",
+      "summary": "Police Presence    Citizen app"
+    },
     {
       "title": "A Perfect Day in Ridgewood, Queens, According to a Travel Editor",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa25ncTN1YlZRUFZLNXF4Xy1wUmJGanVnMHhTYWVSOHNVWDJIRWVmSVpfVHJrd0dMQ3hrUjR6eVl3WTRpSzFoaERaN1JjV3RHNVBueUFqelVxaE9zY003bGRQTm4xSTNicXBOQ1J5OVBKbUZfWi04ei16dVlxb3NiUmoxMGR1LU13ZVdVTzUyV1RfREU4QkhxWHYxNA?oc=5",
@@ -10,11 +17,11 @@
       "summary": "A Perfect Day in Ridgewood, Queens, According to a Travel Editor    Condé Nast Traveler"
     },
     {
-      "title": "Altercation on Sidewalk",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4aERvcVM0Qm1oVzM4RldDWFVUZzBtWE9sTWxTcTY1TG13U0J4QkFuQjRCRGp5TzJveWJwVmlHUkUxWHBvY3hJLUxOXzN2bE5Uc1E?oc=5",
-      "published": "Fri, 17 Jul 2026 05:08:34 GMT",
-      "source": "Citizen app",
-      "summary": "Altercation on Sidewalk    Citizen app"
+      "title": "Red Cross assisting 60 displaced residents after Ridgewood, Queens fire injured 5 FDNY firefighters, 1 resident",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWpxUlBmcWxVZkZfV0xXMWRwalMxMl8xcFVCa0U4RTVXaTl2SVBSQlVKaDVfajdvSXViY21UVnNhOHQ0NDFYODFVbTcyVXZTdGk1RlhIaVg5UnZ4MEM1VTIxM3ZfYnVCaUp1QnBiSVU5OTYwUnFtbWh6cDlBWC16NTUwVUxtUlE0ckZNZHVmQTZtR2c4Ml9PTHBDdzdyM2h3VmtzTWxrT0dnWmNTTm9wVWVhWHlZVjFtTE15NzVqcDU3TTdQMHBFenRkUEdtcWFfZkRz0gHYAUFVX3lxTFBVTmxaUXdDTjh0dkFGUEtzR284RnJISjROc3N4TFMxN08ydU1fM3FvbXR5ZU9KaHZZR2dIVkdUcjlYWnd0emJEbGFaUGZXUXBMMVBKX0l4Qk9fZVU1RXBLY1Bfd29JZVFJNWhJbmN6enJlTC0weEVoR0Q2VENRTElCRC1pODlBNkRCVGRHU3FfUmdzMW9iblVHb1h5a2Vnc29GNGZmWnd3T29KQ1c1SjlCYUhVNXVxMFRhMFpEcXZ4bGFHdWo0bWNNN1Y3LVNXQjcyZ0J5MUhKbw?oc=5",
+      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "source": "ABC7 New York",
+      "summary": "Red Cross assisting 60 displaced residents after Ridgewood, Queens fire injured 5 FDNY firefighters, 1 resident    ABC7 New York"
     },
     {
       "title": "2 injured in apartment fire in Ridgewood, Queens",
@@ -24,11 +31,11 @@
       "summary": "2 injured in apartment fire in Ridgewood, Queens    CBS News"
     },
     {
-      "title": "Red Cross assisting 60 displaced residents after Ridgewood, Queens fire injured 5 FDNY firefighters, 1 resident",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWpxUlBmcWxVZkZfV0xXMWRwalMxMl8xcFVCa0U4RTVXaTl2SVBSQlVKaDVfajdvSXViY21UVnNhOHQ0NDFYODFVbTcyVXZTdGk1RlhIaVg5UnZ4MEM1VTIxM3ZfYnVCaUp1QnBiSVU5OTYwUnFtbWh6cDlBWC16NTUwVUxtUlE0ckZNZHVmQTZtR2c4Ml9PTHBDdzdyM2h3VmtzTWxrT0dnWmNTTm9wVWVhWHlZVjFtTE15NzVqcDU3TTdQMHBFenRkUEdtcWFfZkRz0gHYAUFVX3lxTFBVTmxaUXdDTjh0dkFGUEtzR284RnJISjROc3N4TFMxN08ydU1fM3FvbXR5ZU9KaHZZR2dIVkdUcjlYWnd0emJEbGFaUGZXUXBMMVBKX0l4Qk9fZVU1RXBLY1Bfd29JZVFJNWhJbmN6enJlTC0weEVoR0Q2VENRTElCRC1pODlBNkRCVGRHU3FfUmdzMW9iblVHb1h5a2Vnc29GNGZmWnd3T29KQ1c1SjlCYUhVNXVxMFRhMFpEcXZ4bGFHdWo0bWNNN1Y3LVNXQjcyZ0J5MUhKbw?oc=5",
-      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "source": "ABC7 New York",
-      "summary": "Red Cross assisting 60 displaced residents after Ridgewood, Queens fire injured 5 FDNY firefighters, 1 resident    ABC7 New York"
+      "title": "Whole Foods Is Opening in Ridgewood, Queens",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3NQQi1HUlJ2X0RJdnRibTFvWm1QZkZoR2FGUUkydzJoeHh4RWJCWUs1dXI0dlRpb08wWWpESmRHYXpEMklKbzNtYlgtY0tsWlRhTHJSYm43RkVxYVREeWNtNzBzNG9jcG5HYy1UVE9wWDBVREtFWnlTR25KZ2g2SXVNVGc2ODNCMXlEaU9qS1lzNVJDcThpeGZLZUg?oc=5",
+      "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "Eater New York",
+      "summary": "Whole Foods Is Opening in Ridgewood, Queens    Eater New York"
     },
     {
       "title": "New Building Permit Filed for 1677 George St in Ridgewood, Queens",
@@ -43,13 +50,6 @@
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "source": "New York YIMBY",
       "summary": "Permits Filed for 16-77 George Street in Ridgewood, Queens    New York YIMBY"
-    },
-    {
-      "title": "Whole Foods Is Opening in Ridgewood, Queens",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3NQQi1HUlJ2X0RJdnRibTFvWm1QZkZoR2FGUUkydzJoeHh4RWJCWUs1dXI0dlRpb08wWWpESmRHYXpEMklKbzNtYlgtY0tsWlRhTHJSYm43RkVxYVREeWNtNzBzNG9jcG5HYy1UVE9wWDBVREtFWnlTR25KZ2g2SXVNVGc2ODNCMXlEaU9qS1lzNVJDcThpeGZLZUg?oc=5",
-      "published": "Tue, 16 Dec 2025 08:00:00 GMT",
-      "source": "Eater New York",
-      "summary": "Whole Foods Is Opening in Ridgewood, Queens    Eater New York"
     },
     {
       "title": "Who Are the Pierogi Boys?",
@@ -73,6 +73,13 @@
       "summary": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days    NPR"
     },
     {
+      "title": "Altercation on Sidewalk",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4aERvcVM0Qm1oVzM4RldDWFVUZzBtWE9sTWxTcTY1TG13U0J4QkFuQjRCRGp5TzJveWJwVmlHUkUxWHBvY3hJLUxOXzN2bE5Uc1E?oc=5",
+      "published": "Fri, 17 Jul 2026 05:08:34 GMT",
+      "source": "Citizen app",
+      "summary": "Altercation on Sidewalk    Citizen app"
+    },
+    {
       "title": "Queens shooting: 23-year-old woman, innocent bystander, shot in leg in Ridgewood",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUlIZHh3MTN0TGk2UzExQXN4XzVPUjRzZE5BaDZBWnN5U1VJbWh1YjJYLTJpdERpaWZUc1dFdG1sMkJIWDFEdGtGYWc0SXdjYVlibDg0UW8ydkt2cklyVXd6V3htWVhzMEU1TkxXUDRjbW1YNzRKMU1PZ1k0c1lQUUliSF9GOC1QQTNuak9BVDNoMG9leW9PVHFfdGNuZXVkdEVtaENmSkfSAa4BQVVfeXFMTlpUQjhPWFNETmFCTjQ1RklYQ2hCOHRERkllZ2lCQ2dUS0NnbmpVNU9OSzBsUHNsaVdfMFh4UHFuaWxaWHk5N045LUdjT2ctXzQwY0VYV2d4S243RnBjUGtwaUsxVDV6T3RVcWNqRlRLdmJwRlY0X0pXTFIzNUM0eWtyNVc3UE9GcWRrVlQ0SHhCT01VazM5SW5OOE5Rd0tkMElJM0xpX1NpR1NvVHp3?oc=5",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
@@ -87,13 +94,6 @@
       "summary": "Overflowing manhole is creating a lot of angst in Ridgewood, Queens    CBS News"
     },
     {
-      "title": "Police Activity",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WEhDZnB6UE5HYWIzdnpZNkRSaUV3R1Byd1JfOThIOURtR2JmWUt5WDBveGh6TUZFX0tnU0tXQWZYUUVmZzM0Q043b0JNeEwwdFE?oc=5",
-      "published": "Tue, 30 Jun 2026 22:11:17 GMT",
-      "source": "Citizen app",
-      "summary": "Police Activity    Citizen app"
-    },
-    {
       "title": "Ridgewood, Queens fire injures 5 FDNY firefighters, 1 resident",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUV8xbHlMV1FTcm5pY05iUTl4aWtIZUU2eWdTSlhLVmRTRGRueGJYd2NCMy1nWElLalVVZHRaa1M2UlhLM0tVX1NkNUhoSW1GLVphY29Iam0xcmVpNUNMcm1jSTRRV0FtVFBQR2ZmRDQ4OWVCVS1aNzNJTHhlZkxLVlE2bVd4ejNWS29Zb1VOOHctWXNwbkFhUVBRaWJDZ9IBowFBVV95cUxPUkgtSWFia014cEFhNnk4dGllRjcxSDROamhsMENuRUZYUG5DbkJaM2xNNGdBa1VZS0k2cXJuOW5hbjNKelhiTHg2eXFVNmlyYnF6d1ZRNFZJUUNuSXFSQXMyUlhyNFJlVUtiU2M4NG5DVWVuaUxhbm96b0lLalB6aTVpUzdUeXJhc0VpcnlfczlNNjVBMGt4ZU1GOENYekdYaHVr?oc=5",
       "published": "Tue, 06 Jan 2026 08:00:00 GMT",
@@ -101,11 +101,18 @@
       "summary": "Ridgewood, Queens fire injures 5 FDNY firefighters, 1 resident    ABC7 New York"
     },
     {
-      "title": "Car Crash",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81VGFtNjVxMVlQQTRWcFR2MHBtSkl1RWhFSTU4OVJhckMtS2RkbG9oRWpNY044aGR1MUJSYlBjSnVCcXpZM1BRZHJyRHRkQi1aVUE?oc=5",
-      "published": "Sat, 27 Jun 2026 07:00:00 GMT",
+      "title": "Police Activity",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WEhDZnB6UE5HYWIzdnpZNkRSaUV3R1Byd1JfOThIOURtR2JmWUt5WDBveGh6TUZFX0tnU0tXQWZYUUVmZzM0Q043b0JNeEwwdFE?oc=5",
+      "published": "Tue, 30 Jun 2026 22:11:17 GMT",
       "source": "Citizen app",
-      "summary": "Car Crash    Citizen app"
+      "summary": "Police Activity    Citizen app"
+    },
+    {
+      "title": "Queens apartment building fire in Ridgewood injures at least 9 people",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGhuTjFPTDVaRkh0QzV5MW9td1lmV2JsX1lNSzhPM0JQdUlVOGpidkZZalBpOFZPdldzX3RoLXFWV2pONkZPQmZ3QXdlOWpVX2ROWW5WeXhMakJVd0t2WUgwWkRsWVBRQktIWElXOG9xVW16SzQxUU92T0VQVjl2emNzZERiTnNUM1h2M281bGZDYkdpeGNDVUFCVEhtT2dScG1LaXBR0gGrAUFVX3lxTE1Qa1JlNUUxZ29EMzY2THFHWVhXUnBBYTdMZmtiNjUyUmVhVzF6MVAyQVBRSlU1b2dNcXViSVVfdll1dVpGZVd6U0ctZ2ZKN0IxMVlfMzJ2N1RldV9qSmhkQVpDd0hYMzdlRFM2c3hyMVhSMmRZeDk0NWZyNkRtZ1dseW54bm1aNWRpMkJJZjNJNGNWMm10V0UxMGRfOU1YMFRLcnpTVFB6M3pDcw?oc=5",
+      "published": "Sun, 18 Jan 2026 08:00:00 GMT",
+      "source": "ABC7 New York",
+      "summary": "Queens apartment building fire in Ridgewood injures at least 9 people    ABC7 New York"
     },
     {
       "title": "Report of Ambulance and Fire Truck Activity",
@@ -113,13 +120,6 @@
       "published": "Sun, 21 Jun 2026 07:00:00 GMT",
       "source": "Citizen app",
       "summary": "Report of Ambulance and Fire Truck Activity    Citizen app"
-    },
-    {
-      "title": "Police Activity at Auto Body Shop",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SUXM2bUc1WHZ5VXJUM1puaTBJSkQteklBSTlrOUJDajJYVnY3NlJyZFVZOXhtdWFkMHpFRDlsWkdIZzJfbWNXQXVoX3JiN2xTWWc?oc=5",
-      "published": "Mon, 22 Jun 2026 20:52:48 GMT",
-      "source": "Citizen app",
-      "summary": "Police Activity at Auto Body Shop    Citizen app"
     },
     {
       "title": "Man Struck by (M) Train at Forest Avenue Station",

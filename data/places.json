@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T06:25:03.849072+00:00",
-  "count": 14,
+  "updated": "2026-07-28T09:15:10.735790+00:00",
+  "count": 13,
   "items": [
     {
       "title": "Whole Foods Is Opening in Ridgewood, Queens",
@@ -36,13 +36,6 @@
       "published": "Sat, 17 Jan 2026 08:00:00 GMT",
       "source": "CBS News",
       "summary": "9 hurt as massive Queens tire shop fire spreads to apartments above    CBS News"
-    },
-    {
-      "title": "Police Activity at Auto Body Shop",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SUXM2bUc1WHZ5VXJUM1puaTBJSkQteklBSTlrOUJDajJYVnY3NlJyZFVZOXhtdWFkMHpFRDlsWkdIZzJfbWNXQXVoX3JiN2xTWWc?oc=5",
-      "published": "Mon, 22 Jun 2026 20:52:48 GMT",
-      "source": "Citizen app",
-      "summary": "Police Activity at Auto Body Shop    Citizen app"
     },
     {
       "title": "Nine hurt as fire burns through Queens tire repair shop, apartments",
@@ -85,6 +78,13 @@
       "published": "Wed, 19 Feb 2025 08:00:00 GMT",
       "source": "Sprudge",
       "summary": "The Sprudge Guide to Coffee in Queens, New York    Sprudge"
+    },
+    {
+      "title": "The Pierogi Boys Are Reinventing Polish Comfort Food in Ridgewood",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzl0dzhhTk4tUHpPNjgwTFlNdUI2SHd2RDYyaV91OG54d1NCT012S1JpXzE3bmprY1lKSXhSNHZIZ05fLXh6SUw2N2ZhZW9MX29XWjhZbGpFQTVEME9xbksyOWZlQ0U4ckdXVEhvQndTZDgxVGtnMVZuRWxLSm9vYWlPOUY1TnV0NkE?oc=5",
+      "published": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "source": "Eater New York",
+      "summary": "The Pierogi Boys Are Reinventing Polish Comfort Food in Ridgewood    Eater New York"
     }
   ]
 }

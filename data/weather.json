@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T17:05:11.721899+00:00",
+  "updated": "2026-07-28T18:24:40.158325+00:00",
   "place": "New York, NY",
   "coords": {
     "lat": 40.7002,
@@ -9,12 +9,12 @@
     "tempF": 79,
     "feelsF": 82,
     "humidity": 79,
-    "windMph": 14,
-    "windDir": "SSE",
-    "text": "Clear",
-    "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+    "windMph": 17,
+    "windDir": "S",
+    "text": "Mostly Clear",
+    "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
     "station": "KLGA",
-    "observedAt": "2026-07-28T16:40:00+00:00"
+    "observedAt": "2026-07-28T18:05:00+00:00"
   },
   "periods": [
     {
@@ -130,13 +130,6 @@
   ],
   "hours": [
     {
-      "time": "2026-07-28T13:00:00-04:00",
-      "tempF": 79,
-      "short": "Chance Showers And Thunderstorms",
-      "icon": "https://api.weather.gov/icons/land/day/tsra,40?size=small",
-      "precip": 36
-    },
-    {
       "time": "2026-07-28T14:00:00-04:00",
       "tempF": 78,
       "short": "Showers And Thunderstorms Likely",
@@ -209,6 +202,13 @@
     {
       "time": "2026-07-29T00:00:00-04:00",
       "tempF": 73,
+      "short": "Showers And Thunderstorms Likely",
+      "icon": "https://api.weather.gov/icons/land/night/tsra,70?size=small",
+      "precip": 70
+    },
+    {
+      "time": "2026-07-29T01:00:00-04:00",
+      "tempF": 72,
       "short": "Showers And Thunderstorms Likely",
       "icon": "https://api.weather.gov/icons/land/night/tsra,70?size=small",
       "precip": 70
